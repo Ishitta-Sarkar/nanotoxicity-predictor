@@ -1,0 +1,9 @@
+nanomaterial,particle_size_nm,zeta_potential_mv,surface_area_m2g,concentration_ugml,cell_viability_percent,toxicity_level
+Silver_Nanoparticle,20,-25,45,50,42,High
+Gold_Nanoparticle,30,-15,35,25,78,Low
+Titanium_Dioxide,50,-10,60,100,55,Moderate
+Zinc_Oxide,25,-30,70,75,38,High
+Silica_Nanoparticle,80,-5,40,40,82,Low
+Iron_Oxide,45,-20,55,60,63,Moderate
+Carbon_Nanotube,15,-35,120,30,48,High
+Chitosan_Nanoparticle,100,20,30,20,88,Low
