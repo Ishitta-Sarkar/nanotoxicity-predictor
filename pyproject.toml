@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nanotoxicity"
+version = "1.0.0"
+description = "Leave-one-out reanalysis of two published metal-oxide nano-QSAR tables."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Ishitta Sarkar" }]
+dependencies = [
+  "contourpy==1.4.0",
+  "cycler==0.12.1",
+  "fonttools==4.68.0",
+  "joblib==1.6.0",
+  "kiwisolver==1.5.1",
+  "matplotlib==3.11.2",
+  "numpy==2.5.5",
+  "packaging==24.0",
+  "pillow==13.0.0",
+  "pyparsing==3.1.1",
+  "python-dateutil==4.0.0",
+  "scikit-learn==1.9.1",
+  "scipy==1.18.1",
+  "threadpoolctl==3.8.0",
+]
+
+[project.scripts]
+nanotoxicity = "nanotoxicity.analysis:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+src = ["src", "tests", "main.py"]

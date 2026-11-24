@@ -1,0 +1,36 @@
+dataset,compound_id,name,formula,y_observed,y_loocv,y_baseline,descriptors
+gajewicz_hacat,M,Titanium IV oxide,TiO2,1.760000,1.725379,2.464706,dH-fc=-1492;Xc=4.91
+gajewicz_hacat,A,Aluminum III oxide,Al2O3,1.850000,1.915198,2.459412,dH-fc=-600;Xc=3.44
+gajewicz_hacat,R,Zirconium IV oxide,ZrO2,2.020000,2.267649,2.449412,dH-fc=-638.1;Xc=4.95
+gajewicz_hacat,F,Iron III oxide,Fe2O3,2.050000,2.231951,2.447647,dH-fc=-378.5;Xc=4.21
+gajewicz_hacat,K,Silicon IV dioxide,SiO2,2.120000,1.962245,2.443529,dH-fc=-618.3;Xc=3.81
+gajewicz_hacat,P,Yttrium III oxide,Y2O3,2.210000,2.139485,2.438235,dH-fc=-135.3;Xc=3.35
+gajewicz_hacat,O,Vanadium III oxide,V2O3,2.240000,2.098121,2.436471,dH-fc=-139.5;Xc=3.24
+gajewicz_hacat,E,Chromium III oxide,Cr2O3,2.300000,2.339560,2.432941,dH-fc=-235.3;Xc=4.36
+gajewicz_hacat,B,Antimony III oxide,Sb2O3,2.310000,2.382746,2.432353,dH-fc=-206.7;Xc=4.46
+gajewicz_hacat,J,Nickel II oxide,NiO,2.490000,2.545941,2.421765,dH-fc=68;Xc=4.47
+gajewicz_hacat,C,Bismuth III oxide,Bi2O3,2.500000,2.634194,2.421176,dH-fc=-148.5;Xc=5.34
+gajewicz_hacat,N,Tungsten VI oxide,WO3,2.560000,2.645248,2.417647,dH-fc=-715.4;Xc=6.73
+gajewicz_hacat,I,Manganese III oxide,Mn2O3,2.640000,2.563831,2.412941,dH-fc=-96.3;Xc=5
+gajewicz_hacat,L,Tin IV oxide,SnO2,2.670000,2.347146,2.411176,dH-fc=-266.6;Xc=4.57
+gajewicz_hacat,D,Cobalt II oxide,CoO,2.830000,2.739802,2.401765,dH-fc=-786.8;Xc=7.44
+gajewicz_hacat,H,Lanthanum III oxide,La2O3,2.870000,2.887797,2.399412,dH-fc=-157.7;Xc=6.45
+gajewicz_hacat,G,Indium III oxide,In2O3,2.920000,3.052460,2.396471,dH-fc=-52.1;Xc=6.78
+gajewicz_hacat,Q,Zinc II oxide,ZnO,3.320000,3.093701,2.372941,dH-fc=-449.4;Xc=8.33
+puzyn_ecoli,ZnO,Zinc oxide,ZnO,3.450000,3.346671,2.668750,dH_Me=662.44
+puzyn_ecoli,CuO,Copper(II) oxide,CuO,3.200000,3.322401,2.684375,dH_Me=706.25
+puzyn_ecoli,Y2O3,Yttrium(III) oxide,Y2O3,2.870000,3.155091,2.705000,dH_Me=837.15
+puzyn_ecoli,Bi2O3,Bismuth trioxide,Bi2O3,2.820000,2.710423,2.708125,dH_Me=1137.4
+puzyn_ecoli,In2O3,Indium(III) oxide,In2O3,2.810000,2.514856,2.708750,dH_Me=1271.13
+puzyn_ecoli,Al2O3,Aluminum oxide,Al2O3,2.490000,2.658252,2.728750,dH_Me=1187.83
+puzyn_ecoli,Fe2O3,Iron(III) oxide,Fe2O3,2.290000,2.353770,2.741250,dH_Me=1408.29
+puzyn_ecoli,SiO2,Silicon dioxide,SiO2,2.200000,1.910522,2.746875,dH_Me=1686.38
+puzyn_ecoli,SnO2,Tin dioxide,SnO2,2.010000,1.903537,2.758750,dH_Me=1717.32
+puzyn_ecoli,TiO2,Titanium dioxide,TiO2,1.740000,2.186623,2.775625,dH_Me=1575.73
+puzyn_ecoli,V2O3,Vanadium(III) oxide,V2O3,3.140000,2.747508,2.688125,dH_Me=1097.73
+puzyn_ecoli,Sb2O3,Diantimony trioxide,Sb2O3,2.640000,2.582946,2.719375,dH_Me=1233.06
+puzyn_ecoli,ZrO2,Zirconium dioxide,ZrO2,2.150000,2.440508,2.750000,dH_Me=1357.66
+puzyn_ecoli,CoO,Cobalt(II) oxide,CoO,3.510000,3.431045,2.665000,dH_Me=601.8
+puzyn_ecoli,NiO,Nickel(II) oxide,NiO,3.450000,3.454384,2.668750,dH_Me=596.7
+puzyn_ecoli,Cr2O3,Chromium(III) oxide,Cr2O3,2.510000,2.539993,2.727500,dH_Me=1268.7
+puzyn_ecoli,La2O3,Lanthanum(III) oxide,La2O3,2.870000,2.881348,2.705000,dH_Me=1017.22
