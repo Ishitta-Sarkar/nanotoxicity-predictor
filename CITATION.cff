@@ -1,0 +1,94 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below. Cite the data sources as well.
+type: software
+title: Metal-oxide nano-QSAR reanalysis
+version: 1.0.0
+date-released: "2026-11-24"
+license: MIT
+repository-code: https://github.com/Ishitta-Sarkar/nanotoxicity-predictor
+abstract: >
+  Leave-one-out linear reanalysis of the Gajewicz et al. HaCaT and Puzyn et al.
+  Escherichia coli metal-oxide cytotoxicity tables deposited in QsarDB. The
+  deposited descriptors are compared with a mean baseline.
+authors:
+  - family-names: Sarkar
+    given-names: Ishitta
+    orcid: https://orcid.org/0009-0008-1028-6010
+keywords:
+  - nanotoxicology
+  - nanomaterials
+  - qsar
+  - cytotoxicity
+references:
+  - type: article
+    title: "Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: Hints from nano-QSAR studies"
+    authors:
+      - family-names: Gajewicz
+        given-names: Agnieszka
+      - family-names: Schaeublin
+        given-names: Nicole
+      - family-names: Rasulev
+        given-names: Bakhtiyor
+      - family-names: Hussain
+        given-names: Saber
+      - family-names: Leszczynska
+        given-names: Danuta
+      - family-names: Puzyn
+        given-names: Tomasz
+      - family-names: Leszczynski
+        given-names: Jerzy
+    journal: Nanotoxicology
+    volume: 9
+    issue: 3
+    start: 313
+    end: 325
+    year: 2014
+    doi: 10.3109/17435390.2014.930195
+  - type: dataset
+    title: "Data for: Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: Hints from nano-QSAR studies"
+    authors:
+      - family-names: Piir
+        given-names: G.
+    year: 2020
+    doi: 10.15152/QDB.214
+    repository: QsarDB
+    license: CC-BY-4.0
+  - type: article
+    title: "Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles"
+    authors:
+      - family-names: Puzyn
+        given-names: Tomasz
+      - family-names: Rasulev
+        given-names: Bakhtiyor
+      - family-names: Gajewicz
+        given-names: Agnieszka
+      - family-names: Hu
+        given-names: Xiaoke
+      - family-names: Dasari
+        given-names: Thabitha P.
+      - family-names: Michalkova
+        given-names: Andrea
+      - family-names: Hwang
+        given-names: Huey-Min
+      - family-names: Toropov
+        given-names: Andrey
+      - family-names: Leszczynska
+        given-names: Danuta
+      - family-names: Leszczynski
+        given-names: Jerzy
+    journal: Nature Nanotechnology
+    volume: 6
+    issue: 3
+    start: 175
+    end: 178
+    year: 2011
+    doi: 10.1038/nnano.2011.10
+  - type: dataset
+    title: "Data for: Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles"
+    authors:
+      - family-names: Piir
+        given-names: G.
+    year: 2014
+    doi: 10.15152/QDB.119
+    repository: QsarDB
+    license: CC-BY-4.0
